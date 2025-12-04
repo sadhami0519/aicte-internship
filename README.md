@@ -2,7 +2,10 @@ This project was developed as part of the **AICTE Internship on AI: Transformati
 
 ## Overview
 
-The project, **Spam Detection using Machine Learning**, aims to classify messages as spam or not spam using machine learning algorithms. This is achieved by preprocessing numerical data, extracting meaningful features, and identifying spam patterns.
+The project, **Spam Detection using Machine Learning**, aims to classify messages as spam or not spam using machine learning algorithms. This is achieved by 
+1. preprocessing numerical data,
+2. extracting meaningful features, and
+3. identifying spam patterns.
 
 ### Internship Details
 - **Internship ID:** INTERNSHIP_172777276266fbb85a28f94
